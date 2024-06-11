@@ -1,0 +1,26 @@
+RuSharpX - A next-gen C# library for interacting with FTP Rush (v2!)
+--------------------------------------------------------------------
+RuSharpX is a library that allows C# software to interact with the
+FTP Rush v2 client.
+
+RuSharpX offers both interop/IPC capabilities for modern .NET apps,
+but it also offers a foundational layer for reading and writing
+RushFXP Queue (RFQ) files to automate batch up/downloads via external
+means.
+
+Most of the code in this library has been documented via C# XmlDoc comments.
+
+This library is offered and distributed in raw source code form with 
+dual-licensing, under the "Good Luck With That Shit" (GLWTS) Public License, 
+as well as the MIT No-Attribution (MIT-0) License in the case that for some 
+reason you want to use this and require compliance with some sort of license
+policy.
+
+I would release this into the public domain if I could, but that would require
+registering this work. As such, it is released with pseudonymous copyrights under
+those licenses. I do not care what you do with it, cause thermonuclear war for all
+I care. Just don't point the finger at me when you get fired because your alarm clock
+didn't fire off.
+
+Disclaimer:
+I have nothing to do with Marsup, aka the original author of RuSharp.
